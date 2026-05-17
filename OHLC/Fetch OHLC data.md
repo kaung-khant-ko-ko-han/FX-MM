@@ -457,6 +457,10 @@ Candlestick attribute များအကြောင်း ပိုမိုသ
 ---
 
 '''
+pip install yfinance plotly pandas
+'''
+
+'''
 import pandas as pd
 import yfinance as yf
 import plotly.graph_objects as go
